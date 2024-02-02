@@ -362,6 +362,11 @@ footer{
     row-gap: 20px;
 }
 
+.developer{
+    color: red;
+    
+}
+
 
 /* Button Hover Effect */
 .effect:hover{
